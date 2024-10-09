@@ -1,0 +1,7 @@
+.Rproj.user/
+*.json
+_site/
+video.qmd
+.quarto/xref/*
+
+/.quarto/
